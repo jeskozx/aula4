@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 1000px;
+}

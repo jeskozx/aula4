@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(255, 0, 179);
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: lawngreen;
+    padding: 15px;
+}
+a{
+    font-size: 80px;
+    color: black;
+    display: block;
+    background-color: skyblue;
+    border: solid 3px green;
+    width: 500px;
+    text-align: center;
+    text-decoration: none;
+    margin: 30px auto;
+    padding: 20px;
+}
+a:hover{
+    color: white;
+    background-color: lawngreen;
+    border: solid 3px black;
+    scale: 1.1;
+}
